@@ -1,0 +1,31 @@
+.buttons{
+    background-color: lightskyblue;
+    color: darkblue;
+    padding: 10px 12px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 25px;
+   
+}
+
+.formsB{
+    
+    width: 100%;
+    padding: 15px 1px;
+    margin: 5px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    background: lightskyblue;
+    color: darkblue;
+    
+}
+
+.formsButton{
+    width: 500px;
+    height: 100px;
+    margin: auto;
+}
+
+.wholeThing{
+    background-color: rgba(17, 39, 238, 0.603)
+}
