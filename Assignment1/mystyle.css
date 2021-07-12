@@ -1,0 +1,93 @@
+body{
+    background-color:#87cefa;
+}
+
+h1 {
+    color:#2b08ff;
+    font-size: 40px;
+    font-family:"Gotham";
+    text-align: center;
+}
+
+h2 {
+    color:#2b08ff;
+    font-size: 25px;
+    font-family:"Gotham";
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+    font-family:"Gotham";
+    text-align: center;
+}
+
+h4{
+    font-size:30px;
+    font-family:"Gotham";
+    text-align: center;
+}
+
+p0{
+    font-size: 20px;
+    font-family: "Times New Roman";
+}
+
+p1{
+    font-size: 20px; 
+    font-family: "Times New Roman";
+    
+}
+
+p2{
+    font-size: 20px;
+    font-family: "Times New Roman";
+}
+
+p3{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    height:40px;
+    width: 25%;
+}
+
+.alignment {
+    text-align: center;
+   
+}
+
+.footer {
+    text-align: center;
+
+    bottom: 0;
+}
+
+
+div > p{
+    background-color: yellow;
+}
+
+
+#ppg{
+    color: #326700;
+    border: 12px double;
+}
+
+
+#ah1{
+    color: #981921;
+    border: 9px dotted; 
+}
+
+#ah2{
+    color:#d7546e;
+    border: 9px dotted;
+    width: 80px;
+    
+
+}
+
+a:hover{
+    color:#ffaa00 ;
+}
+
